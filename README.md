@@ -60,8 +60,7 @@
  
  ---
 
-### :writing_hand: Blog Posts :
- <!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->                               
+### :writing_hand: Blog Posts :Check out my blogs on : https://singharyan1007.hashnode.dev/
+                             
                                 
                                 
