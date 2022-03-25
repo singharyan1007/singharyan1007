@@ -5,7 +5,7 @@
    <a href="">                             
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-    <a href=""> 
+    <a href="https://singharyan1007.hashnode.dev/"> 
   <img src="https://img.shields.io/badge/Hashnode-red?style=for-the-badge&logo=hashnode&logoColor=white" alt="Hashnode Badge"/>
     </a>
     <a href=""> 
