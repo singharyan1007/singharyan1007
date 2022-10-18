@@ -20,7 +20,7 @@
 </div>
                                 
  <div align="center">
-  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="600" height="300"/>
+ [![@bugshacker's Holopin board](https://holopin.me/bugshacker)](https://holopin.io/@bugshacker)
 </div> 
                                 
  ---
