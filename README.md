@@ -19,9 +19,7 @@
 </h1>                               
 </div>
                                 
- <div align="center">
  [![@bugshacker's Holopin board](https://holopin.me/bugshacker)](https://holopin.io/@bugshacker)
-</div> 
                                 
  ---
 
