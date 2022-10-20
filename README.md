@@ -20,7 +20,6 @@
 </div>
                                 
 [![@bugshacker's Holopin board](https://holopin.me/bugshacker)](https://holopin.io/@bugshacker)
-                                
  ---
 
 ### :technologist: About Me :
