@@ -15,7 +15,7 @@
  <img src="https://komarev.com/ghpvc/?username=singharyan1007&style=flat-square&color=blue" alt=""/>   
  <h1>
   hey there
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  <img src="https://www.canva.com/design/DAFPkPYE5Rs/2teCdeFxCSZcJAfd-RC17w/edit?utm_content=DAFPkPYE5Rs&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton" width="100%"/>
 </h1>                               
 </div>
                                 
