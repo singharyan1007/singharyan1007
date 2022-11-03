@@ -12,7 +12,7 @@
   <img src="https://img.shields.io/badge/Instagram-blue?style=for-the-badge&logo=instagram&logoColor=white" alt=" Badge"/>
     </a>                            
 </div> 
- <img src="https://komarev.com/ghpvc/?username=singharyan1007&style=flat-square&color=blue" alt=""/>   
+ <img src="[https://komarev.com/ghpvc/?username=singharyan1007&style=flat-square&color=blue](https://www.canva.com/design/DAFPkPYE5Rs/2teCdeFxCSZcJAfd-RC17w/edit?utm_content=DAFPkPYE5Rs&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)" alt=""/>   
  <h1>
   hey there
   <img src="https://www.canva.com/design/DAFPkPYE5Rs/2teCdeFxCSZcJAfd-RC17w/edit?utm_content=DAFPkPYE5Rs&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton" width="100%"/>
