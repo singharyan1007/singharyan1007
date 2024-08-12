@@ -2,15 +2,13 @@
 <div id="header" align="center"'>
   <img src="https://media.giphy.com/media/gjrYDwbjnK8x36xZIO/giphy.gif" width="200"/>
   <div id="badges">
-   <a href="">                             
+   <a href="https://www.linkedin.com/in/aryan-singh1007/">                             
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
     <a href="https://singharyan1007.hashnode.dev/"> 
   <img src="https://img.shields.io/badge/Hashnode-red?style=for-the-badge&logo=hashnode&logoColor=white" alt="Hashnode Badge"/>
     </a>
-    <a href=""> 
-  <img src="https://img.shields.io/badge/Instagram-blue?style=for-the-badge&logo=instagram&logoColor=white" alt=" Badge"/>
-    </a>                            
+                           
 </div>   
  <h1>
   hey there
@@ -22,7 +20,7 @@
 
 ### :technologist: About Me :
    I am Aryan Singh from India.
-  Presently working as an Associate Software Engineer, Enterprise Applications, <a href="www.consilio.com">@Consilio</a> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+  Presently working as an Associate Software Engineer, Enterprise Applications, <a href="https://www.consilio.com/">@Consilio</a> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - :telescope: I’m learning a lot of stuff and contributing to frontend and backend .
 
 - :zap: In my free time, I put my mind in exploring various frontend and backend tech stacks, watching anime and reading technical blogs.
