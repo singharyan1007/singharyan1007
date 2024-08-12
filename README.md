@@ -22,7 +22,7 @@
 
 ### :technologist: About Me :
    I am Aryan Singh from India.
-  Presently working as an Associate Software Engineer, Enterprise Applications, @[Consilio](www.consilio.com) <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+  Presently working as an Associate Software Engineer, Enterprise Applications, <a href="www.consilio.com">@Consilio</a> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - :telescope: I’m learning a lot of stuff and contributing to frontend and backend .
 
 - :zap: In my free time, I put my mind in exploring various frontend and backend tech stacks, watching anime and reading technical blogs.
