@@ -22,10 +22,8 @@
 
 ### :technologist: About Me :
    I am Aryan Singh from India.
-   I am a sophomore studying Electronics and Communication Engineering who loves Full Stack Development <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+  Presently working as an Associate Software Engineer, Enterprise Applications, @[Consilio](www.consilio.com) <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - :telescope: I’m learning a lot of stuff and contributing to frontend and backend .
-
-- :seedling: Working on a startup called as  CampusConnect as the co-developer.
 
 - :zap: In my free time, I put my mind in exploring various frontend and backend tech stacks, watching anime and reading technical blogs.
 
